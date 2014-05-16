@@ -4,3 +4,6 @@
 [submodule "MatUtility"]
 	path = MatUtility
 	url = https://github.com/kiransamudrala/MatUtility.git
+[submodule "SpatialStatisticsFFT"]
+	path = SpatialStatisticsFFT
+	url = https://github.com/tonyfast/SpatialStatisticsFFT.git
